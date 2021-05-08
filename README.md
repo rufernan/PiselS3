@@ -22,12 +22,11 @@ This repo contains the codes for the JSTARS paper: [Sentinel-3/FLEX Biophysical 
   title={{Sentinel-3/FLEX Biophysical Product Confidence using Sentinel-2 Land Cover Spatial Distributions}},
   author={Fernandez-Beltran, Ruben and Pla, Filiberto and Kang, Jian and Moreno, Jose F and Plaza, Antonio J},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  year={2021},
   volume={14},
-  number={},
   pages={3447-3461},
+  year={2021},  
+  publisher={IEEE},
   doi={10.1109/JSTARS.2021.3065582}
-  publisher={IEEE}
 }
 ```
 
