@@ -11,9 +11,9 @@ This repo contains the codes for the JSTARS paper: [Sentinel-3/FLEX Biophysical 
 
 ## Usage
 
-`./codes/x.m` is the training script for .
+`./codes/compute_errors_probabilities.m` is the core of the proposed algorithm.
 
-`./codes/y.m` is the training script for .
+`./codes/exp01_psrinir_maxentropy_gmm_gmm_4_psf.m` is a sample of the main script.
 
 ## Citation
 
