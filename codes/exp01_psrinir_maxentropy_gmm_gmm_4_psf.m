@@ -4,7 +4,7 @@ addpath(genpath('.'));
 delete([mfilename,'.txt']);
 diary([mfilename,'.txt']); diary on;
 
-DATA_FOLDER = '../data2';
+DATA_FOLDER = '../data';
 ALL_NAMES_struct = dir(fullfile(DATA_FOLDER,'S2*.mat'));
 ALL_NAMES = extractfield(ALL_NAMES_struct,'name');
 
